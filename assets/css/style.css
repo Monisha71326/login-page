@@ -1,0 +1,50 @@
+body{
+background-image:url('https://imgcdn.stablediffusionweb.com/2024/12/21/fdf64ad2-c3a0-46f1-99bc-78a98b521303.jpg'); background-size:cover;
+background-repeat:no-repeat; background-position:center;
+filter: brightness(1.2);
+}
+table{
+margin-top:100px; 
+border:10pxsolid #ff69b4;
+border-radius:20px;
+width:400px;
+height:400px;
+background-color:#ff69b4;
+box-shadow:0 10px 25px #ff69b4;
+    }
+.login-position {
+ position:relative;
+ display:inline;
+}
+.username {
+ padding: 10px 60px;
+ border-radius:20px;
+ border:1px solid #ccc;
+ margin-top:15px;
+}
+.username-icon{
+position:absolute;
+right:15px;
+top:20%;
+transform:translateY(-50);
+color:black;
+}
+.remember-me{
+margin-left:10px;
+font-family:arial;
+}
+.forgot{
+ margin-left:80px;
+ font-family:arial;
+}
+.login{
+ padding:10px 30px;
+ border-radius: 30px; 
+ background-color:#4CAF50; 
+ color: white;
+ border:none;
+}
+.register{
+ font-family:Arial;
+ text-align:center;
+}
