@@ -7,7 +7,7 @@ A simple and clean **Login Page** built using **HTML**, **CSS**, and **Font Awes
 ```
 project/
 │
-├── index.html              # Login page
+├── login.html              # Login page
 │
 └── assets/
     └── css/
@@ -44,7 +44,7 @@ project/
 
 3. **Open in browser**
    ```bash
-   open index.html
+   open login.html
    ```
    or double-click `index.html`
 
