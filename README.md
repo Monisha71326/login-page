@@ -2,18 +2,16 @@
 
 A simple and clean **Login Page** built using **HTML**, **CSS**, and **Font Awesome** icons with a pink theme and background image.
 
-
-
 ## 📸 Screenshot
 
 ![Login Page](assets/img/screenshot.png)
 
 ## 📁 Project Structure
 
-```
+```txt
 login-page
 │
-├── index.html
+├── login.html
 ├── README.md
 │
 └── assets
@@ -26,37 +24,41 @@ login-page
 
 ## 🚀 Features
 
-- Username & Password input fields with Font Awesome icons
-- "Remember Me" checkbox
-- "Forgot Password?" link
-- Login submit button
-- "Don't have an account? Register" prompt
-- Pink themed card with box shadow
-- Background image from CDN
+* Username & Password input fields with Font Awesome icons
+* "Remember Me" checkbox
+* "Forgot Password?" link
+* Login submit button
+* "Don't have an account? Register" prompt
+* Pink themed card with box shadow
+* Background image from CDN
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS
-- Font Awesome 6.4.0 (CDN)
+* HTML5
+* CSS3
+* Font Awesome 6.4.0 (CDN)
 
 ## ⚙️ Setup & Usage
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Monisha71326/login-page.git
-   ```
+
+```bash
+git clone https://github.com/Monisha71326/login-page.git
+```
 
 2. **Navigate to the project folder**
-   ```bash
-   cd login-page
-   ```
+
+```bash
+cd login-page
+```
 
 3. **Open in browser**
-   ```bash
-   open login.html
-   ```
-   or double-click `index.html`
+
+```bash
+open login.html
+```
+
+or double-click `login.html`
 
 ## 🚀 GitHub Push Commands
 
@@ -71,6 +73,4 @@ git push -u origin main
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-
+This project is open source and available under the MIT License.
