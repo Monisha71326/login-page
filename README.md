@@ -2,16 +2,26 @@
 
 A simple and clean **Login Page** built using **HTML**, **CSS**, and **Font Awesome** icons with a pink theme and background image.
 
+
+
+## 📸 Screenshot
+
+![Login Page](assets/img/screenshot.png)
+
 ## 📁 Project Structure
 
 ```
-project/
+login-page
 │
-├── login.html              # Login page
+├── index.html
+├── README.md
 │
-└── assets/
-    └── css/
-        └── style.css       # Main stylesheet
+└── assets
+    ├── css
+    │   └── style.css
+    │
+    └── img
+        └── screenshot.png
 ```
 
 ## 🚀 Features
